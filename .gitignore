@@ -1,0 +1,4 @@
+results/*.jld
+Manifest.toml
+.vscode/*
+parameters.csv
